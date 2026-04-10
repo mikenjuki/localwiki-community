@@ -1,0 +1,56 @@
+name: Feature Request
+description: Suggest a new feature or improvement for localWiki
+title: "[Feature]: "
+labels: ["feature-request", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We'd love to hear your ideas. Please describe the feature you'd like to see.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or use case
+      description: What problem does this solve? What are you trying to do that you can't do today?
+      placeholder: I'm always frustrated when...
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: How do you think this should work? Be as specific as you like.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Have you tried any workarounds or alternative approaches?
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      description: Which part of localWiki does this relate to?
+      options:
+        - Pages / Editor
+        - Workspaces
+        - Project Keys / Env Vars
+        - Secrets Vault
+        - CLI (lol)
+        - MCP Toolkit
+        - Sync / Relay
+        - Security / Encryption
+        - Admin / Device Management
+        - UI / Design
+        - Performance
+        - Other
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Checklist
+      options:
+        - label: I have searched existing issues to make sure this isn't a duplicate.
+          required: true

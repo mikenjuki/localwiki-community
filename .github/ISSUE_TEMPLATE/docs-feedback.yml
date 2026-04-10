@@ -1,0 +1,42 @@
+name: Documentation Feedback
+description: Report an error, suggest an improvement, or request new documentation
+title: "[Docs]: "
+labels: ["docs-feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help us improve the localWiki documentation. Whether it's a typo, a confusing section, or a missing topic — we want to hear about it.
+  - type: input
+    id: page
+    attributes:
+      label: Documentation page
+      description: Which page is this about? Paste the URL or page title.
+      placeholder: e.g. https://localwiki.app/docs/getting-started/installation
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type of feedback
+      options:
+        - Incorrect information
+        - Confusing or unclear
+        - Missing information
+        - Typo or formatting
+        - New topic request
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Details
+      description: What's wrong or what should be added?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested change
+      description: If you have a specific wording or content suggestion, include it here.

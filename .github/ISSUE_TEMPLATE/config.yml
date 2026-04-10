@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: localWiki Documentation
+    url: https://localwiki.app/docs
+    about: Read the official documentation before opening an issue.
+  - name: Download localWiki
+    url: https://localwiki.app/install
+    about: Download the latest version of localWiki.
