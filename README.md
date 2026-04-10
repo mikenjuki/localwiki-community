@@ -1,6 +1,6 @@
 # localWiki Community
 
-Welcome to the official community hub for **[localWiki](https://localwiki.app)** — the local-first encrypted vault for dev team secrets and setup docs.
+Welcome to the official community hub for **[localWiki](https://localwiki.nextbyts.com)** — the local-first encrypted vault for dev team secrets and setup docs.
 
 This repository is the place to:
 
@@ -12,7 +12,7 @@ This repository is the place to:
 ## Before you post
 
 1. **Search existing issues** to avoid duplicates
-2. **Read the [documentation](https://localwiki.app/docs)** — your answer might already be there
+2. **Read the [documentation](https://localwiki.nextbyts.com/docs)** — your answer might already be there
 3. **Use the issue templates** — they help us respond faster
 
 ## Issue templates
@@ -29,11 +29,11 @@ This is **not** the source code repository for localWiki. The product source cod
 
 ## Links
 
-- **Website**: [localwiki.app](https://localwiki.app)
-- **Documentation**: [localwiki.app/docs](https://localwiki.app/docs)
-- **Download**: [localwiki.app/install](https://localwiki.app/install)
-- **Privacy Policy**: [localwiki.app/privacy](https://localwiki.app/privacy)
-- **Terms of Service**: [localwiki.app/terms](https://localwiki.app/terms)
+- **Website**: [localwiki.nextbyts.com](https://localwiki.nextbyts.com)
+- **Documentation**: [localwiki.nextbyts.com/docs](https://localwiki.nextbyts.com/docs)
+- **Download**: [localwiki.nextbyts.com/install](https://localwiki.nextbyts.com/install)
+- **Privacy Policy**: [localwiki.nextbyts.com/privacy](https://localwiki.nextbyts.com/privacy)
+- **Terms of Service**: [localwiki.nextbyts.com/terms](https://localwiki.nextbyts.com/terms)
 
 ## Response times
 
@@ -49,4 +49,4 @@ Be respectful. Be constructive. We're all here to make localWiki better.
 
 ---
 
-Built by [Nextbyts](https://localwiki.app)
+Built by [Nextbyts](https://localwiki.nextbyts.com)

@@ -6,7 +6,11 @@ body:
   - type: markdown
     attributes:
       value: |
-        We'd love to hear your ideas. Please describe the feature you'd like to see.
+        We'd love to hear your ideas.
+
+        **Before you submit**, please check:
+        - [ ] I've [searched existing feature requests](https://github.com/mikenjuki/localwiki-community/issues?q=is%3Aissue+label%3Afeature-request) to make sure this hasn't been suggested
+        - [ ] I've checked the [docs](https://localwiki.nextbyts.com/docs) to confirm this feature doesn't already exist
   - type: textarea
     id: problem
     attributes:

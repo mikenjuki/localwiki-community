@@ -1,8 +1,17 @@
 blank_issues_enabled: false
 contact_links:
-  - name: localWiki Documentation
-    url: https://localwiki.app/docs
-    about: Read the official documentation before opening an issue.
-  - name: Download localWiki
-    url: https://localwiki.app/install
-    about: Download the latest version of localWiki.
+  - name: Read the Documentation First
+    url: https://localwiki.nextbyts.com/docs
+    about: Most questions are answered in the docs. Check here before opening an issue.
+  - name: Search Existing Issues
+    url: https://github.com/mikenjuki/localwiki-community/issues?q=is%3Aissue
+    about: Someone may have already reported your issue or requested your feature. Search first to avoid duplicates.
+  - name: FAQ
+    url: https://localwiki.nextbyts.com/docs/reference/faq
+    about: Common questions about localWiki — offline usage, encryption, sync, passwords, and more.
+  - name: Troubleshooting Sync Issues
+    url: https://localwiki.nextbyts.com/docs/sync/troubleshooting
+    about: Having sync problems? Check the troubleshooting guide before reporting.
+  - name: Download Latest Version
+    url: https://localwiki.nextbyts.com/install
+    about: Make sure you're on the latest version before reporting a bug.

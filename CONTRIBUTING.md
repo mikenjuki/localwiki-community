@@ -22,7 +22,7 @@ Before requesting a feature:
 
 ## Documentation feedback
 
-Found a typo, a confusing section, or missing info in [the docs](https://localwiki.app/docs)?
+Found a typo, a confusing section, or missing info in [the docs](https://localwiki.nextbyts.com/docs)?
 
 - Use the "Documentation Feedback" template
 - Include the page URL

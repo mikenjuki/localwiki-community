@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability in localWiki, **do not open a public issue**.
 
-Instead, email us directly at the contact address on [localwiki.app](https://localwiki.app). Include:
+Instead, email us directly at the contact address on [localwiki.nextbyts.com](https://localwiki.nextbyts.com). Include:
 
 - A description of the vulnerability
 - Steps to reproduce it
@@ -18,7 +18,7 @@ We will acknowledge your report within 48 hours and work with you to understand 
 This policy covers:
 
 - The localWiki desktop application (Windows, macOS, Linux)
-- The localWiki landing site (localwiki.app)
+- The localWiki landing site (localwiki.nextbyts.com)
 - The sync relay service
 - The `lol` CLI tool
 

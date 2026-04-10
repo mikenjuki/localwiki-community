@@ -6,7 +6,12 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to report a bug. Please fill out the details below so we can investigate.
+        Thanks for taking the time to report a bug.
+
+        **Before you submit**, please check:
+        - [ ] I'm running the [latest version](https://localwiki.nextbyts.com/install) of localWiki
+        - [ ] I've checked the [FAQ](https://localwiki.nextbyts.com/docs/reference/faq) and [troubleshooting guide](https://localwiki.nextbyts.com/docs/sync/troubleshooting)
+        - [ ] I've [searched existing issues](https://github.com/mikenjuki/localwiki-community/issues?q=is%3Aissue) and this hasn't been reported yet
   - type: input
     id: version
     attributes:
